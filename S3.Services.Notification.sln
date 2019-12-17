@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{75CEF95D-8788-4254-841E-F30816780068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3.Services.Notification", "src\S3.Services.Notification\S3.Services.Notification.csproj", "{B63F665B-7FD7-4730-885C-807B93C29857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63F665B-7FD7-4730-885C-807B93C29857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63F665B-7FD7-4730-885C-807B93C29857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63F665B-7FD7-4730-885C-807B93C29857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63F665B-7FD7-4730-885C-807B93C29857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B63F665B-7FD7-4730-885C-807B93C29857} = {75CEF95D-8788-4254-841E-F30816780068}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F0E1C2D-DAA6-40B8-942A-5C3A1E45ADAC}
+	EndGlobalSection
+EndGlobal
