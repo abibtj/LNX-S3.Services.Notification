@@ -1,0 +1,17 @@
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Services.Notification.deps.json
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Services.Notification.runtimeconfig.json
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Services.Notification.runtimeconfig.dev.json
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Services.Notification.dll
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Services.Notification.pdb
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Common.dll
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Release\netcoreapp2.2\S3.Common.pdb
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.csprojAssemblyReference.cache
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.RazorAssemblyInfo.cache
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.RazorAssemblyInfo.cs
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.AssemblyInfoInputs.cache
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.AssemblyInfo.cs
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.RazorTargetAssemblyInfo.cache
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.csproj.CopyComplete
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.dll
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.pdb
+C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Release\netcoreapp2.2\S3.Services.Notification.csproj.CoreCompileInputs.cache

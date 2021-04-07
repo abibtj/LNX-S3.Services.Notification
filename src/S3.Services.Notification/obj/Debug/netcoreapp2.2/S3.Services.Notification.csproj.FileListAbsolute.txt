@@ -18,3 +18,25 @@ C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notifica
 C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.csproj.CopyComplete
 C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.dll
 C:\Users\Abeeb\Documents\Visual Studio 2019\Projects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.pdb
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\appsettings.docker.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Services.Notification.deps.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Services.Notification.runtimeconfig.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Services.Notification.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Services.Notification.dll
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Services.Notification.pdb
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Common.dll
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\bin\Debug\netcoreapp2.2\S3.Common.pdb
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.AssemblyInfo.cs
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.RazorAssemblyInfo.cache
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.RazorAssemblyInfo.cs
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.RazorTargetAssemblyInfo.cache
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.csproj.CopyComplete
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.dll
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.pdb
+C:\Users\ACER\source\repos\MyProjects\S3\LNX-S3.Services.Notification\src\S3.Services.Notification\obj\Debug\netcoreapp2.2\S3.Services.Notification.genruntimeconfig.cache

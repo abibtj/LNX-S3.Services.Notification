@@ -5,10 +5,10 @@ using OpenTracing;
 
 namespace S3.Services.Notification.Controllers
 {
-  [Route("")]
+  [Route("api/[controller]")]
     public class HomeController : ControllerBase
     {
-       [HttpGet]
+        [HttpGet]
         [AllowAnonymous]
         public IActionResult Get() => Ok("Notification service running...");
     }

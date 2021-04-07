@@ -1,4 +1,5 @@
-﻿//using Microsoft.AspNetCore.Identity.UI.Services;
+﻿
+//using Microsoft.AspNetCore.Identity.UI.Services;
 using MailKit.Net.Smtp;
 using MailKit;
 using MimeKit;
@@ -21,6 +22,6 @@ namespace S3.Services.Notification.Utility
 {
     public interface IEmailSender
     {
-        Task SendEmailAsync(string senderEmail, List<string> recipientEmails, string subject, string htmlMessage);
+        Task SendEmailAsync(List<string> recipientEmails, string subject, string htmlMessage);
     }
 }
